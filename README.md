@@ -1,5 +1,3 @@
 <div align="center">
-  <h1>Outrage</h1>
-
-  Coming soon.
+  <img width="1000" height="auto" alt="image" src="/images/outrageheader.png"/>
 </div>
