@@ -1,5 +1,7 @@
-# Outrage
+<div align="center">
+  <h1>Outrage</h1>
 
-**Outrage** (formerly Ranxware) is an upcoming Roblox exploit utility primarily providing overpowered advantages while being undetectable.
+  Enrage your fury.
 
-Coming soon.
+  Coming soon.
+</div>
